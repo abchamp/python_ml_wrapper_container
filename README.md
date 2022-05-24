@@ -1,5 +1,10 @@
 # python_ml_wrapper_container
-support queue 
+
+- input tabular and image (mainly)
+- run on docker continer
+- Direct with HTTPS (Flask)
+- PUB/SUB (rabbitMQ, kafka)
+- Support queue (....think about tech) to model
 
 https://www.rabbitmq.com/tutorials/tutorial-one-php.html
 https://www.fullstackpython.com/task-queues.html
