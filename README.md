@@ -1,4 +1,4 @@
-# python_ml_wrapper_container
+### python_ml_wrapper_container
 
 - input tabular and image (mainly)
 - run on docker continer
@@ -6,5 +6,7 @@
 - PUB/SUB (rabbitMQ, kafka)
 - Support queue (....think about tech) to model
 
-https://www.rabbitmq.com/tutorials/tutorial-one-php.html
-https://www.fullstackpython.com/task-queues.html
+### Resource
+- https://www.rabbitmq.com/tutorials/tutorial-one-php.html
+- https://www.fullstackpython.com/task-queues.html
+- https://www.digitalocean.com/community/tutorials/how-to-structure-large-flask-applications
