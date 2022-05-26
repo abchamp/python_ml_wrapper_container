@@ -5,6 +5,7 @@
 - Direct with HTTPS (Flask)
 - PUB/SUB (rabbitMQ, kafka)
 - Support queue (....think about tech) to model
+- No SECURITY !! (For now)
 
 ### Resource
 - https://www.rabbitmq.com/tutorials/tutorial-one-php.html
