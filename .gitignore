@@ -1,2 +1,3 @@
 venv/
 __pythoncache__/
+src/__pythoncache__/
